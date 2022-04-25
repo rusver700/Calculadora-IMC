@@ -52,10 +52,11 @@ input{
     font-size: 25px;
 }
 .rus-logo {
-    width:70px;
-    height:70px;
+    width:50px;
+    height:50px;
     position: absolute;
-    top: 55px;
+    top: 20px;
+    left: 10px;
     background: linear-gradient( gray,white,rgb(7, 48, 114));
     padding: 5px;
     box-shadow: 2px 2px 2px rgb(113, 150, 159);
@@ -63,6 +64,6 @@ input{
 }
 header{
     color: rgb(86, 6, 161);
-    font-size: 12px;
+    font-size: 9px;
     
 }
