@@ -81,7 +81,8 @@ function validar(){
         }
 
         vamos(2,3);
-
+        peso.value=""
+        altura.value=""
 
     }
 }
